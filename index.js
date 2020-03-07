@@ -1,5 +1,8 @@
-function hello() {
-    console.log('Hello World')
+"use strict";
+exports.__esModule = true;
+function hello(name) {
+    if (name === void 0) { name = 'World'; }
+    console.log("Hello " + name);
 }
-
-module.exports = hello
+exports.hello = hello;
+// export default hello
