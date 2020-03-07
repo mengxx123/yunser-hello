@@ -1,18 +1,12 @@
 {
-  "name": "yunser-hello",
-  "version": "1.0.2",
-  "description": "",
+  "name": "@yunser/hello",
+  "version": "1.0.0",
+  "description": "hello world",
   "main": "index.js",
-  "scripts": {
-    "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-  },
+  "author": "Yunser",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "www.xxx.com"
+    "url": "https://github.com/yunser/yunser-hello"
   }
 }
